@@ -1,5 +1,10 @@
 <h1 align="center">Welcome to the official OneSignal Ruby on Rails Plugin 👋</h1>
 
+> [!WARNING]
+> **This repository is deprecated and is no longer maintained.** OneSignal does not support this gem anymore, and the repository will be archived. We do not accept new issues or pull requests.
+>
+> To send email through OneSignal from Ruby, use the [OneSignal Ruby API library](https://github.com/OneSignal/onesignal-ruby-api) or the [OneSignal REST API](https://documentation.onesignal.com/reference/).
+
 [![Gem Version][rgb]][rgl]
 
 <p>
@@ -7,7 +12,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/OneSignal/onesignal-rails-plugin/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
   </a>
   <a href="https://twitter.com/onesignal" target="_blank">
     <img alt="Twitter: onesignal" src="https://img.shields.io/twitter/follow/onesignal.svg?style=social" />
@@ -225,7 +230,7 @@ The gem is available as open source under the terms of the [MIT License][mit].
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/OneSignal/onesignal-rail-plugin/issues).
+This repository is deprecated and does not accept contributions, issues, or feature requests.
 
 ## Show your support
 
